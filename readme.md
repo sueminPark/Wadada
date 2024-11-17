@@ -1,4 +1,4 @@
-# 따로, 또 함께 달리는 런닝 어플리케이션 WADADA <img src="./images/wadada_logo.png" width="25" height="auto">
+# 따로, 또 함께 달리는 런닝 어플리케이션 WADADA <img src="./images/wadada_logo.png" width="25" height="auto"> 🏆
 
 <div align="center">
   <img src="./images/main.png">
